@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I'm a statistician, I don't know how to blog.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+:construction: But I'll try to bring data related adventures. :construction:
