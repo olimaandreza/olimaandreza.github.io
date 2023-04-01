@@ -18,4 +18,8 @@ E por onde começar? Python tem uma grande variedade de bibliotecas criadas para
 
 Como usar? Cientistas de dados do Ifood, Nubank e Netflix, para citar alguns, usam Python para entender o comportamento do usuário, personalizar suas ofertas e melhorar a experiência do cliente.
 
-Se quiser aprender comigo, eu pretendo abordar alguns assuntos aqui, então me acompanhe! 🍪
+Se quiser aprender comigo ou só tem curiosidade em ver o que eu estou aprontando, eu pretendo abordar alguns assuntos aqui, então me acompanhe! 🍪
+
+💡Bônus para quem chegou até o fim: Tim Peters criou um poema chamado The Zen of Python com 19 princípios do Python. Você pode ler ao executar o comando: 
+    
+    import this 
