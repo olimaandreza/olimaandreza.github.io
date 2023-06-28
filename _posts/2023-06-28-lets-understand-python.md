@@ -4,7 +4,7 @@ title: "Let's understand Python"
 tags: Python
 ---
 
-Honrando a descrição do blog: como eu não sei ser blogger, quase 3 meses depois, chega um novo post. Hoje me senti inspirada para postar: estou participando do processo seletivo Santander Coders 2023 na trilha de engenharia de dados e uma das etapas é justamente um Coding Tank com os primeiros passos em Python, e é sobre isso que vim falar hoje.
+Honrando a descrição do blog: como eu não sei ser blogger, quase 3 meses depois, chega um novo post 😵. Hoje me senti inspirada para postar: estou participando do processo seletivo Santander Coders 2023 na trilha de engenharia de dados e uma das etapas é justamente um Coding Tank com os primeiros passos em Python, e é sobre isso que vim falar hoje.
 
 Então, um overview.
 
@@ -28,7 +28,7 @@ Mas é mais ou menos o seguinte: uma linguagem de programação orientada a obje
 
 ## Hello world
 
-O "Hello, World!" é considerado uma tradição na programação de computadores e é usado como um rito de passagem para muitos programadores iniciantes. O objetivo é criar um programa que imprime a frase "Hello, World!" na tela do computador.
+O "Hello, World!" é considerado uma tradição na programação de computadores e é usado como um rito de passagem para muitos programadores iniciantes. O objetivo é criar seu primeiro programa que imprime a frase "Hello, World!" na tela do computador.
 
 Em python, a função `print()` vai fazer esse trabalho. Sempre que quiser imprimir um resultado na tela, print() vai ser sua melhor amiga.
 
@@ -36,8 +36,8 @@ Para imprimir um texto, coloque-o entre aspas, e o resultado será impresso na t
 
     print("Hello World!")
 
-Pronto, parabéns, você fez seu primeiro programa em Python.
+Pronto, parabéns, você fez seu primeiro programa em Python ✨.
 
-Mas lembre: Ao utilizar a função print para imprimir valores que são um texto, precisamos sempre indicar para o programa com o uso de aspas, caso contrário, ele vai procurar na memória uma **variável** com o nome do texto inserido, e isso pode acarretar um erro ou resultados não previstos. Ou seja, cuidado: `print("Hello")` é diferente de `print(Hello)`.
+Mas lembre-se: Ao utilizar a função print para imprimir valores que são um texto, precisamos sempre indicar para o programa com o uso de aspas, caso contrário, ele vai procurar na memória uma **variável** com o nome do texto inserido, e isso pode acarretar um erro ou resultados não previstos. Ou seja, cuidado: `print("Hello")` é diferente de `print(Hello)`.
 
-E por falar em variáveis, esse vai ser o tema do próximo post de Python.
+E por falar em variáveis, esse vai ser o tema do próximo post de Python que eu espero que não seja em 3 meses, ehhehe.
