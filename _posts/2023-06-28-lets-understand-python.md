@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's understand Python"
-tags: Python
+tags: Python curso-python print
 ---
 
 Honrando a descrição do blog: como eu não sei ser blogger, quase 3 meses depois, chega um novo post 😵. Hoje me senti inspirada para postar: estou participando do processo seletivo Santander Coders 2023 na trilha de engenharia de dados e uma das etapas é justamente um Coding Tank com os primeiros passos em Python, e é sobre isso que vim falar hoje.
@@ -38,6 +38,6 @@ Para imprimir um texto, coloque-o entre aspas, e o resultado será impresso na t
 
 Pronto, parabéns, você fez seu primeiro programa em Python ✨.
 
-Mas lembre-se: Ao utilizar a função print para imprimir valores que são um texto, precisamos sempre indicar para o programa com o uso de aspas, caso contrário, ele vai procurar na memória uma **variável** com o nome do texto inserido, e isso pode acarretar um erro ou resultados não previstos. Ou seja, cuidado: `print("Hello")` é diferente de `print(Hello)`.
+Mas lembre-se: Ao utilizar a função print para imprimir valores que são um texto, precisamos sempre indicar para o programa com o uso de aspas, caso contrário, ele vai procurar na memória uma [**variável**](https://olimaandreza.github.io/2023/08/25/lets-create-variables.html) com o nome do texto inserido, e isso pode acarretar um erro ou resultados não previstos. Ou seja, cuidado: `print("Hello")` é diferente de `print(Hello)`.
 
-E por falar em variáveis, esse vai ser o tema do próximo post de Python que eu espero que não seja em 3 meses, ehhehe.
+E por falar em [variáveis](https://olimaandreza.github.io/2023/08/25/lets-create-variables.html), esse vai ser o tema do próximo post de Python que eu espero que não seja em 3 meses, ehhehe.
