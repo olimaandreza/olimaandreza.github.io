@@ -116,7 +116,7 @@ E assim, mais uma vez mergulhamos no universo de Python, explorando o conceito d
 
 ______
 
-👉 Quem quiser, pode encontrar mais detalhes sobre os tipos de variáveis na documentação do Python: https://docs.python.org/3/library/stdtypes.html
+👉 Quem quiser, pode encontrar mais detalhes sobre os tipos de variáveis na documentação do Python: [https://docs.python.org/3/library/stdtypes.html](https://docs.python.org/3/library/stdtypes.html).
 
 
 
