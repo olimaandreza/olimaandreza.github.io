@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's create variables"
-tags: Python print variáveis curso-python
+tags: Python Print Variáveis 
 ---
 
 Chega de lenga-lenga (eu adoro as expressões da língua portuguesa) e vamos começar pra valer o aprendizado de Python.

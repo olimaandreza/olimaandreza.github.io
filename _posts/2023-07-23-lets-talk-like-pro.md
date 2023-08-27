@@ -30,7 +30,7 @@ Usam  R (cada vez menos), python (cada vez mais), especificamente bibliotecas co
 
 ## Engenheiro de dados
 
-Os engenheiros de dados são responsáveis por projetar, construir e manter sistemas de gerenciamento de dados. Com sua expertise em ferramentas de big data e nuvem, eles garantem que a jornada dos dados seja suave, sem congestionamentos! Você sabe quando os dados precisam viajar de um lugar para outro, certo? É aí que entram os engenheiros de dados! Eles são responsáveis por criar nossas rodovias digitais, construindo pipelines ETL/ELT eficientes para transportar informações com segurança e com as devidas modificações, para que cheguem ao seu destino prontos para o uso, por exemplo, pelos analistas ou cientistas de dados.
+Os [engenheiros de dados](https://olimaandreza.github.io/2023/08/27/lets-data-engineer.html) são responsáveis por projetar, construir e manter sistemas de gerenciamento de dados. Com sua expertise em ferramentas de big data e nuvem, eles garantem que a jornada dos dados seja suave, sem congestionamentos! Você sabe quando os dados precisam viajar de um lugar para outro, certo? É aí que entram os engenheiros de dados! Eles são responsáveis por criar nossas rodovias digitais, construindo pipelines ETL/ELT eficientes para transportar informações com segurança e com as devidas modificações, para que cheguem ao seu destino prontos para o uso, por exemplo, pelos analistas ou cientistas de dados.
 
 Trabalham frequentemente com linguagens de bancos de dados em geral, ferramentas para orquestração de dados, airflow, python, scala, spark, hadoop.
 

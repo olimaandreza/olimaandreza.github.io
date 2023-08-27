@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's understand Python"
-tags: Python curso-python print
+tags: Python Print
 ---
 
 Honrando a descrição do blog: como eu não sei ser blogger, quase 3 meses depois, chega um novo post 😵. Hoje me senti inspirada para postar: estou participando do processo seletivo Santander Coders 2023 na trilha de engenharia de dados e uma das etapas é justamente um Coding Tank com os primeiros passos em Python, e é sobre isso que vim falar hoje.
