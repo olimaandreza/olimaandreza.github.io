@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Explore Arithmetic Operators "
+title: "Let's explore arithmetic operators "
 tags: Python
 ---
 
