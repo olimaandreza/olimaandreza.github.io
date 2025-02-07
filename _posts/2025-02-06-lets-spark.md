@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's Spark ✨"
-tags: Python
+tags: Python Spark
 ---
 
 "Quem está vivo sempre aparece!" means literally "Who is alive always shows up!".
