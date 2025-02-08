@@ -25,4 +25,4 @@ Then came the dawn of Spark, emerging to address these limitations with elegance
 * Extensibility: Unlike Hadoop, which married data storage, Spark focused on parallel computation in memory rather than storage, integrating with various data sources, providing unmatched flexibility and power.
 
 ______
-Now, armed with the knowledge of Spark's evolution and its incredible capabilities, I feel ready to conquer this beast.  So here’s to mastering Spark, one awkward blog post at a time.
+Now, armed with the knowledge of Spark's evolution and its incredible capabilities, I feel ready to conquer this beast.  So here’s to mastering Spark 🍸, one awkward blog post at a time.
